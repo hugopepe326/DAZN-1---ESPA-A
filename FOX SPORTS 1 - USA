@@ -22,7 +22,7 @@
     </style>
 </head>
 <body>
-    <h1>FOX SPORTS 1 - USA</h1>
+    <h1>Contenido incrustado</h1>
     <div class="responsive-iframe">
         <!-- Tu iframe -->
         <iframe class="video responsive" 
